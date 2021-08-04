@@ -1,0 +1,22 @@
+{
+  "name": "html-js-templating",
+  "version": "1.0.0",
+  "description": "html and js working together to template datasets",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "live": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin-Kayser/html-js-templating.git"
+  },
+  "author": "Kevin Kayser (https://github.com/Kevin-Kayser)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevin-Kayser/html-js-templating/issues"
+  },
+  "homepage": "https://github.com/Kevin-Kayser/html-js-templating#readme"
+}
